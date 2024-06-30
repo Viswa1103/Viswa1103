@@ -1,7 +1,7 @@
 # Hi there, I'm Viswa 👋
 
 - 🔭 I’m currently working on `A Website`
-- 🌱 I’m currently learning `React JS`
+- 🌱 I’m currently learning `Algorithms`
 - ⚡ Fun fact: `Loading..`
 
 # About `Me`
