@@ -26,8 +26,7 @@
 - [GitHub](Viswa1103)
 
     
-## GitHub Stats
-![Viswa V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viswa1103&show_icons=true&theme=radical)
+
     
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa1103&layout=compact&theme=radical)
