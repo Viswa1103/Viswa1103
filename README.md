@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `A Website`
 - 🌱 I’m currently learning `Algorithms`
-- ⚡ Fun fact: `Loading..`
+
 
 # About `Me`
 I just Started everthing!!
